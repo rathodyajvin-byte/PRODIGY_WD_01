@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Nav",
+  "description": "A high-performance, responsive React navigation menu featuring dynamic scroll effects, hover states, and a modern glassmorphism aesthetic using Tailwind CSS.",
+  "requestFramePermissions": []
+}
